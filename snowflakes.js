@@ -1,4 +1,3 @@
-
               // Snow Effect Script
               console.log("Snow Effect Script Loaded!");
 
